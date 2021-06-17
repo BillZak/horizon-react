@@ -1,0 +1,41 @@
+.img-responsive{
+	width: 60%;
+	height: 50px;
+	margin-left: 40px;
+}
+.navbar {
+    min-height: 80px;
+    background-color: #fff;
+     margin-bottom: 0px;
+}
+.item > img, .carousel-inner > .item > a > img {
+    max-height: 480px;
+    width: 100%;
+}
+.thumb{
+	width: 100%
+}
+.plan{
+	margin-top: 70px;
+	margin-bottom: 30px;
+}
+.thumbnails{
+	margin-bottom: 80px;
+}
+.country{
+	color: limegreen;
+}
+.col-md-4{
+	text-align: center;
+}
+.footer{
+	background-color: navy;
+	padding: 30px;
+	padding-top: 10px;
+}
+.address{
+	color: chocolate;
+}
+.loc{
+	color: white;
+}
